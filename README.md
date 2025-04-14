@@ -1,5 +1,5 @@
 # 🐢 Stock Turtle Race
-
+(As I'm trying to learn Oops, this seemed like a fun project to do)
 A fun and visual Python project that turns stock price data into a turtle race!
 
 This project uses:
